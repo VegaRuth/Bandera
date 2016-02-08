@@ -1,0 +1,11 @@
+/* Escribe tu css aqui */
+div{
+	width: 100%;
+	height: 40px;
+}
+.amarillo{
+	background-color:yellow; 
+}
+.rojo{
+	background-color: red;
+}
